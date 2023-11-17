@@ -1,7 +1,7 @@
 import requests
 import random
 
-webhook_url = 'https://chat.googleapis.com/v1/spaces/AAAAS-ZoQas/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=T4OpuPd-iZoxx_7y74tusqwnEe7pcJv7vl5M8UNKdt8'
+webhook_url = 'https://chat.googleapis.com/v1/spaces/AAAAbMvrJBE/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=8s0aqBydgkSkWdApTmMoUVopYqnd2ZFGLpsrM0wkBbc'
 
 def return_joke():
     with open('piadas.txt', 'r') as arquivo:
